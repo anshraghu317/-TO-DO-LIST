@@ -21,8 +21,6 @@
   <li> start work </li>  
 </ol>
   <a href="https://en.m.wikipedia.org/wiki/Wikipedia:To-do_list"> more about it </a>
-  <br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4zXjcdpO2o3IheJXT_dJKuCbq8Oj35KTBFKdslREnywevPwFWEl0WPI&s=10"/>
-<br/>
 </body>
 </html>
