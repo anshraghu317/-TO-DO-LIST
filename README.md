@@ -2,7 +2,6 @@
 <html>
 <head>
 <title> to do list </title>
-  <hr/>
   <h1> TO DO LIST </h1>
   <hr/>
 </head>
@@ -24,6 +23,6 @@
   <a href="https://en.m.wikipedia.org/wiki/Wikipedia:To-do_list"> more about it </a>
   <br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6ODoZIIHzR61rRLO5hrH-5w8Qz4r6b-KCw&usqp=CAU"/>
-</br/>
+<br/>
 </body>
 </html>
