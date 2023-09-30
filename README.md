@@ -1,11 +1,13 @@
-
 <html>
 <head>
 <title> to do list </title>
+  <hr/>
+  <center>
   <h1> TO DO LIST </h1>
+  </center>
   <hr/>
 </head>
-<body>
+<body style="background:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4ajh7mcdbkBskUrszJ0G_OyK4qYZDQTMYg&usqp=CAU')">
 <ol>
   <li> wake up </li>
   <li> drink water</li>
@@ -21,6 +23,8 @@
   <li> start work </li>  
 </ol>
   <a href="https://en.m.wikipedia.org/wiki/Wikipedia:To-do_list"> more about it </a>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4zXjcdpO2o3IheJXT_dJKuCbq8Oj35KTBFKdslREnywevPwFWEl0WPI&s=10"/>
+  <br/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6ODoZIIHzR61rRLO5hrH-5w8Qz4r6b-KCw&usqp=CAU" width="300" height="200"/>
+<br/>
 </body>
 </html>
